@@ -1,0 +1,161 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-weight:Century Gothic;
+    background: url(p1.jpeg) no-repeat;
+    background-size: cover;
+    background-position:center;
+    background-color: yellowgreen;
+    }
+    h2{
+        margin-left:500px;
+        margin-top: 10px;
+        font-size: 3em;
+        font-weight:bold;
+        
+    }
+    .container{
+        height: 110vh;
+        width: 30%;
+        background: rgba(0, 0, 0, .6);
+        position: absolute;
+        top:5%;
+        left: 16%;
+        transform: translate(-50%,-50%);
+        padding: 0 25px;
+
+    }
+    .img{
+            height: 70px;
+            width: 70px;
+            background:url("zee1.jpeg")no-repeat;
+            background-size:cover;
+            background-position:center;
+            border: radis 50px;
+            position:absolute;
+            top:50%;
+            left:50%;
+            transform:translate(-50%,-50%);
+        }
+        .container h1{
+            color: white;
+            margin-top: 310px;
+        }
+        .container p{
+            color:white;
+            margin-top:6;
+            padding: 3px;
+            
+        }
+        .btn{
+            background:no-repeat;
+            outline: none;
+            border: 1px solid white;
+            color:black;
+            width: 50%;
+            padding: 6px 15px;
+            font-size: large;
+            cursor: pointer;
+            transition: 0.3s ease;
+            margin-top: 50 px;
+            margin-bottom: 3px;
+
+        }
+        .btn:hover{
+            background: white;
+            color:black;
+        }
+       .container1{
+                  padding: 20px;
+                  height:250px;
+                  width:80px;
+                  background: rgba(0, 0, 0, .6);
+                  position: absolute;
+                  margin-left: 330px;
+                  margin-top: 25px;
+       }
+       .container1 t{
+           color:white;
+           margin-top:35px;
+           font-size: large;
+        
+       }
+       .container1 p1{
+        color:white;
+        margin-top:6px;
+        padding:5px;
+
+       }
+       .container2{
+                  height:264px;
+                  width:90px;
+                  background: rgba(0, 0, 0, .6);
+                  padding:13px;
+                  margin-left:450px;   
+                  margin-top: 25px;         
+                
+                }
+                .container2 t1{
+                    color: white;
+                    margin-top: 35px;
+                    font-size: large;
+                }
+                .container2 p2{
+                    color: white;
+                    margin-top: 6px;
+                    padding: 6px;
+                }
+                .wrapper{
+                    margin-top: 10%;
+
+                }
+                .wrapper h2{
+                    font-size:52px;
+                    text-align: center;
+                    margin: 25px;
+                    margin-left: 80px;
+                }
+                .pp,.pp1{
+
+                   display: flex;
+                }
+                .pp img{
+                    height: 250px;
+                    width: 250px;
+                    padding: 50px;
+                }
+                .pp p3{
+                    font-size:large
+                }
+                .pp p5,p7{
+                        margin: 3px;
+                }
+                
+                .pp1 img{
+                    height: 250px;
+                    width: 250px;
+                    padding: 60px;
+                    margin-left: 85px;
+                }
+                .container3{
+                    height: 210px;
+                    width: 260px;
+                    background: rgba(0,0,0,0.3);
+                    padding: 30px;
+                    margin-left: 320px;
+                    margin-top: 60px;
+                    border-radius: 20px;
+                    margin-bottom: 70px;
+                }
+                .container h{
+                    font-size: large;
+                }
+                .container3 form{
+                    padding:30px;
+                    margin-top: 15px;
+                    border-radius: 25px;
+
+                }
+               
+                
+                
